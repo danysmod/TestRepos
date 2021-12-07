@@ -1,0 +1,3 @@
+[submodule "Solution1/WebApplication1/ClientApp"]
+	path = Solution1/WebApplication1/ClientApp
+	url = https://github.com/danysmod/TestSubRepos.git
