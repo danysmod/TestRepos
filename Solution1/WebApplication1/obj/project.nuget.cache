@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IcqbZNbep2nozYYwQrljdzc4T/cGGAdL9DoeZx1s8qRDTzu254uheSFjI9bv+0CKYdr6qL4/5ZZAZPOD64qbQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dany\\source\\repos\\TestRepos\\Solution1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dany\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
